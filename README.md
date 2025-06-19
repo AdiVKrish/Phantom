@@ -47,16 +47,20 @@
 
 ### Quick Setup
 ```bash
-#Create venv in your environment 
-python -m venv cybersec-env (for windows)
-cybersec-env\Scripts\Activate  (to activate)
 
 # Clone the repository
 git clone https://github.com/AdiVKrish/phantom.git
 cd phantom
 
+#Create venv in your environment
+python3 -m venv cybersec(for linux)
+source cybersec/bin/activate (to activate)
+
+python -m venv cybersec-env (for windows)
+cybersec-env\Scripts\Activate  (to activate)
+
 # Install required dependencies
-pip install -r requirements.txt
+pip install -r requirements.txt (if not wokring install as said in dependencies)
 
 # Make the script executable (Linux/macOS)
 chmod +x phantom.py
@@ -64,7 +68,9 @@ chmod +x phantom.py
 
 ### Dependencies
 ```bash
-pip install requests beautifulsoup4 pandas colorama argparse python-nmap dnspython                                                                                             
+pip install requests beautifulsoup4 pandas colorama argparse python-nmap dnspython
+
+pip install whois                                                                                             
 ```
 
 ## 🛠️ Usage
