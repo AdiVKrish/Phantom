@@ -240,7 +240,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **GitHub Issues**: [Report bugs and request features](https://github.com/AdiVKrish/phantom/issues)
 - **Email**: adikrishrightnow@gmail.com
-- **LinkedIn**: [Your Professional Profile](https://www.linkedin.com/in/aditya-v-krishnan-4a3061256/)
+- **LinkedIn**: [My LinkedIN](https://www.linkedin.com/in/aditya-v-krishnan-4a3061256/)
 
 ## 🌟 Acknowledgments
 
